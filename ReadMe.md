@@ -9,19 +9,16 @@
 
 ###
 
-<h1 align="center">Sim, meu sobrenome é Da Hora. Verbalizando sobre Tech, Ciências Políticas e a vida.. Sobra tempo até de fotos e quiçá poesia... Vem comigo!?</h1>
+<h1 align="center">🤎 Sim, meu sobrenome é Da Hora.
+💛Graduanda em Ciências de Dados e Engenharia da Computação. 
+🩵Mãe 
+💜Verbalizo sobre Dados, Ciências Políticas
+🧡Gerando conteúdo por aí</h1>
 
-###
-
-<h3 align="left">👩‍💻 Graduanda em Ciências de Dados e Engenharia da Computação</h3>
 
 ###
 
 <h3 align="left">🛠 SQL|PYTHON|JAVASCRIPT</h3>
-
-###
-
-<p align="left">-Sou do Rio<br><br>- 🔭 Gero conteúdo<br>-📚 Estou aprendendo sobre Governança de Dados  ...<br>- ⚡ Tempi livre, gosto de ficar ouvindo música...</p>
 
 ###
 
