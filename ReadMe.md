@@ -12,19 +12,19 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Sim, meu sobrenome é Da Hora. Verbalizando sobre Tech, Ciências Políticas e a vida.. Sobra tempo até de fotos e quiçá poesia... Vem comigo!? 👋</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 Graduanda em Ciências de Dados e Engenharia da Computação</h3>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 SQL|PYTHON|JAVASCRIPT</h3>
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">I'm ... from ....<br><br>- 🔭 Gero conteúdo<br>- 📚 Estou aprendendo sobre Governança de Dados  ...<br>- ⚡ Tempi livre, gosto de ficar ouvindo música...</p>
 
 ###
 
