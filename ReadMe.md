@@ -52,4 +52,7 @@
 
 ![Codigodahora's Stats](https://github-readme-stats.vercel.app/api?username=Codigodahora&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
+![Codigodahora's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Codigodahora&theme=vue-dark&hide_border=true)
+
+![Codigodahora's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Codigodahora&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 ###
