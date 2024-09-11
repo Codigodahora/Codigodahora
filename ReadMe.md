@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm ... from ....<br><br>- 🔭 Gero conteúdo<br>- 📚 Estou aprendendo sobre Governança de Dados  ...<br>- ⚡ Tempi livre, gosto de ficar ouvindo música...</p>
+<p align="left">Sou do Rio<br><br>- 🔭 Gero conteúdo<br>- 📚 Estou aprendendo sobre Governança de Dados  ...<br>- ⚡ Tempi livre, gosto de ficar ouvindo música...</p>
 
 ###
 
@@ -50,6 +50,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥   My Stats :![Codigodahora's Stats](https://github-readme-stats.vercel.app/api?username=Codigodahora&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)</h3>
 
 ###
